@@ -11,7 +11,7 @@ To do this simply follow the instructions below:
   * Go to [github.com](github.com)
   * Hit Sign Up
   * Follow the instructions
-  * Make the username with the same guidlines as Slack (first name, last name)
+  * Make the username with the same guidelines as Slack (first name, last name)
 
 Lets start with creating a Repository, but what is a Github Repository? Well, repositorys are a place in github where
 things are or may be stored.  
