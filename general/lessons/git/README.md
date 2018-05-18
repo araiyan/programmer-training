@@ -15,7 +15,7 @@ To do this simply follow the instructions below:
   * Follow the instructions
   * Make the username with the same guidelines as Slack (first name, last name)
 
-Lets start with creating a Repository, but what is a Github Repository? Well, repositorys are a place in github where
+Lets start with creating a Repository, but what is a Github Repository? Well, repositories are a place in github where
 things are or may be stored.  
 
 ###Creating a Repository
