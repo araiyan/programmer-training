@@ -79,7 +79,7 @@ The robot class should also have methods to:
 
 A cube can only be picked up when:
 
- * The robot is at space 3 (aka 3 meters from starting position)
+ * The robot is at space 4 (4 meters from starting position)
  * The arm is 0 meters off the ground
  * The robot does not already have a cube
 The robot must be holding a cube 10 centimeters in the air at space 7 to score it.

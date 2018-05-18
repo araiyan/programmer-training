@@ -19,9 +19,9 @@ Git is a *version control system* (vcs) that allows you to save your code to [gi
 The terminal is where you type commands, and your computer does them. Be careful not to break your computer. You use the terminal for running programs, editing files in vim, navigating files (like file explorer, but better), and doing just about anything you want. In terminal, you can press tab to autocomplete and the up (and down) arrow to go to previous commands.
 
 ## Running the python interpreter
-Type `python` into your terminal and hit enter. You shoul see something like this:
+Type `python` into your terminal and hit enter. You should see something like this:
 
-    Python 2.7.13 (default, Jan 19 2017, 14:48:08) 
+    Python 2.7.13 (default, Jan 19 2017, 14:48:08)
     [GCC 6.3.0 20170118] on linux2
     Type "help", "copyright", "credits" or "license" for more information.
     >>>
