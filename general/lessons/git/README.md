@@ -1,6 +1,6 @@
 ###Introduction to Github
 
-In Github we use git which is a control system that allows users to work on verietys of projects.
+In Github we use git which is a control system that allows users to work on varieties of projects.
 
 Github is an online website where programmers can share and store their code. Here, you can see previous revisions and variations of a project.
 
