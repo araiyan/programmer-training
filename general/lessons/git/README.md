@@ -49,8 +49,9 @@ changes are reasonable.
 
 To do this, first you have to push all your changes to a different branch. Think of branches as branches in trees and
 your files are leafs of that tree you are simply making a new branch out of that tree with a slightly different kinds of
-leafs that you have created. So to do this do "git checkout -b " then the name of your branch (you can name it whatever
-you want). Now that you have a branch do "git push origin " and the name of the branch you just created. This should
+leafs that you have created. So to do this do "git checkout -b ". Then the name of your branch (you can name it whatever
+you want). This will let you make a new branch and "checkout" to
+it. Basically, switching over to that branch after making it. Now that you have a branch do "git push origin " and the name of the branch you just created. This should
 allow you to push your changes to the fork you created from the repository.
 After you have done this, if you go back to the forked repository in the website you should see a new button named "Pull
 Request". Click it and follow the instructions, and now you have just created a pull request that other people can see
