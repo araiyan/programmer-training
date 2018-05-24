@@ -22,7 +22,7 @@ Lets start with creating a Repository, but what is a Github Repository? Well, re
   * Hit New Repository
   * Follow the instructions
 
-Now, that you have your own repository, lets look at somebody else's repository. You can do this by simply searching a random persons github repository or you may look at this repository right [HERE](https://github.com/araiyan/Own-Website)
+Now, that you have your own repository, let's look at somebody else's repository. You can do this by simply searching a random persons github repository or you may look at this repository right [HERE](https://github.com/araiyan/Own-Website)
 
 After you are inside a repository, look at the top right corner. You will see a box that says fork inside of it.
 Click it.
