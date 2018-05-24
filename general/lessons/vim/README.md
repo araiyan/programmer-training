@@ -32,17 +32,9 @@
 * `v` goes into visual mode, highlighting characters, preparing them for other commands. **NOTE**: The highlighter starts from the character the cursor's on and is unidirectional. **NOTE**: The character the cursor is on counts as highlighted.
 * `d` deletes the highlighted characters.
 * `y` copies the highlighted characters, alowing them to be pasted elsewhere (including other files).
-* `esc` switches from insert/visual mode to normal mode.p <filename>` is the same as :vsp but splits the screen horizontally. *Example:* 
+* `esc` switches from insert/visual mode to normal mode.p <filename>` is the same as :vsp but splits the screen horizontally. *Example:*
 \<img src=":sp_example.png" width="550"\>
 (It looks so much worse, don't use it).
-
-## Text Editing
-* `i` goes into insert mode, where you can insert text.
-* `:%s/<old-text>/<new-text>/gc` finds instances of <old-text> and replaces it with <new-text>, giving a y/n prompt for safety.
-* `dd` deletes and copies the current line.
-* `p` pastes any copied stuff.
-* `o` creates a new line with the same indentation as the old line.
-* `Shift-o` is the same as `o` same but it creates the new line above the old one.
 
 ## Cursor Commands
 * `Shift-g` goes to test bottom of the file.

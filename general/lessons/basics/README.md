@@ -14,9 +14,6 @@
 * Use `cd` and `ls` to navigate to the directory your file is in.
 * Type `python <name of your program>.py`. Press `enter`. Observe the following demo:
 
-
-``
-
     cd ~/robotics/training
     $ ls
     test.py
@@ -33,15 +30,16 @@ Try printing these arithmetic calculations and see what happens!
 Once you are familiar with these, try one that shows 5 arithmetic expressions of your choice that results in the number 42. Feel free to look up how to do any fancy expressions.
 
 ## Order of operations
-Arithmetic calculations in python follow the order of operations. Here is the hierarchy (PEMDAS): 
+Arithmetic calculations in python follow the order of operations. Here is the hierarchy (PEMDAS):
 
-* `()` **P**arentheses  
+* `()` **P**arentheses
 * `**` **E**xponent
 * `*` **M**ultiplication
 * `/` **D**ivision
 * `+` **A**ddition
 * `-` **S**ubtraction
 
+For esponents, be sure not to use `^`. It is a bitwise xor operator and will give you very different numbers.
 When you divide two numbers without decimals, the result is always rounded down. For example:
 
     5 / 2 = 2
